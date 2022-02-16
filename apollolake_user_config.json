@@ -1,7 +1,7 @@
 {
   "extra_cmdline": {
-    "vid": "0951",
-    "pid": "1666",
+    "vid": "0x0951",
+    "pid": "0x1666",
     "sn": "125XXXX",
     "netif_num":"1",
     "mac1": "0011XXXX",
